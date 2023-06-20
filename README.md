@@ -2,7 +2,7 @@
 
 This is a python script that proxies a Minecraft server and modifies plugin message packets sent by the client to change its name and brand. It can also block out specified packets if they have a keyword match.
 
-🙄 *Some minecraft server banned me for using a normal client. so i managed to make this to send different client name to the server.*`
+🙄 *Some minecraft server banned me for using a normal client. so i managed to make this to send different client name to the server.*
 
 ## Requirements
 
